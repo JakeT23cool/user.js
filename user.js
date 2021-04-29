@@ -1,3 +1,5 @@
+// search //
+
 /******
 * name: arkenfox user.js
 * date: 23 April 2021
